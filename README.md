@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <div>
-  <a href="www.darling0.cn">
+  <a href="http://www.darling0.cn">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);%E6%97%A9%E7%82%B9%E7%9D%A1%E8%A7%89!&center=true&size=27" />
     </a>
 </div>
